@@ -46,11 +46,12 @@ This guide will walk you through setting up a cloud account, creating IAM users 
 
 2. Sign up for a new account by providing your email address, and setting up a password, and verifying your identity.
 
-   
+   ![Screenshot 2024-09-08 190241](https://github.com/user-attachments/assets/81999094-2240-4958-8911-4b92cb05f97f)
 
 4. Select a support plan (basic is usually sufficient for getting started).
 
 5. Access the cloud console after completing the registration process.
+
 
  # Configuring IAM Users
 
