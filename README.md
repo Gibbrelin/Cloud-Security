@@ -165,11 +165,12 @@ Security groups act as virtual firewalls for your instances to control inbound a
  . HTTP (port 80) for web servers.
 
  . SSH (port 22) for SSH access (limit to specific IPs for security).
- 
+ ![Screenshot 2024-09-07 232242](https://github.com/user-attachments/assets/384af94f-0a6f-4ba0-88f3-a38dd6643ba2)
 
 5. Configure Outbound Rules (optional): By default, all outbound traffic is allowed.
 
-6. Create the security group.
+
+7. Create the security group.
 
 # Launching a Cloud Instance
 
