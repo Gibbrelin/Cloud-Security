@@ -72,7 +72,10 @@ Cloud accounts typically come with a root user. For better security, it's recomm
 
 4. Enter the username and passowrd of the new user
 
-5.  select the access type:
+![Screenshot 2024-09-06 132101](https://github.com/user-attachments/assets/36491e51-9586-4508-9215-a0a6360bf47c)
+
+
+6.  select the access type:
 
  . Programmatic access for API, CLI, SDK access.
 
