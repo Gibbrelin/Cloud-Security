@@ -179,6 +179,7 @@ Security groups act as virtual firewalls for your instances to control inbound a
 ![Screenshot 2024-09-07 214715](https://github.com/user-attachments/assets/6aa8721c-699d-4d27-a794-4cc804c6bb09)
 
 2. Choose an AMI (Amazon Machine Image) that suits your needs (e.g., Amazon Linux, Ubuntu, etc.).
+![image](https://github.com/user-attachments/assets/d5f9938e-230a-49ad-9c98-ec02703cc64a)
 
 3. Select instance type based on CPU, memory, and performance requirements.
 
