@@ -182,6 +182,7 @@ Security groups act as virtual firewalls for your instances to control inbound a
 ![image](https://github.com/user-attachments/assets/d5f9938e-230a-49ad-9c98-ec02703cc64a)
 
 3. Select instance type based on CPU, memory, and performance requirements.
+![Screenshot 2024-09-08 203827](https://github.com/user-attachments/assets/07e53173-b243-4093-91fc-7e085d1d1165)
 
 4. Configure Instance Details:
 
