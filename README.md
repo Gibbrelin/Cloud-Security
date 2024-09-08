@@ -98,6 +98,44 @@ Optionally, create custom policies for fine-grained control.
 5. Review and create the user. Download the access keys if required.
 
 ![Screenshot 2024-09-06 132544](https://github.com/user-attachments/assets/4f6bb618-b099-4bd8-87f1-5db535b6f403)
+![Screenshot 2024-09-06 132607](https://github.com/user-attachments/assets/5eb886fa-1188-42a7-8e62-cff53a4949f2)
+
+# Configuring multi-factor authentication (MFA)
+Multi-Factor Authentication (MFA) adds an extra layer of security by requiring users to present a second form of authentication, in addition to their password, when logging in to their AWS account.
+
+Enabling MFA for Root Account
+
+1. Navigate to the IAM Dashboard:
+
+  . From the AWS Console, click on your account name in the top-right corner.
+Select Security Credentials.
+
+ 2. Locate the 'Multi-Factor Authentication (MFA)' section:
+
+. Under the "Sign-In Credentials" section, find Multi-Factor Authentication (MFA).
+
+. Click Enable MFA.
+
+
+
+3. Choose MFA Device:
+
+   . Virtual MFA Device: For smartphones or tablets using apps like Google Authenticator or Authy.
+   
+   . Hardware MFA Device: For physical devices like key fobs.
+   
+   . Configure Virtual MFA Device:
+   (i will be using virtual MFA for this illustration)
+
+If using a smartphone, download an MFA app (Google Authenticator, Authy, etc.).
+Open the app and scan the QR code provided by AWS.
+
+4. Complete MFA Setup:
+
+   . Enter two consecutive MFA codes from your authenticator app to complete the configuration.
+
+   . AWS will now display that MFA is enabled for your IAM account.
+
 
 # Creating Security Groups
 
