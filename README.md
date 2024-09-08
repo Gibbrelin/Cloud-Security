@@ -30,7 +30,7 @@ This guide will walk you through setting up a cloud account, creating IAM users 
 
  . Basic understanding of cloud computing and security concepts
 
-Step 1: Setting up a Cloud Account
+# Setting up a Cloud Account
 
 1. Go to the cloud provider’s sign-up page:
 
@@ -46,11 +46,11 @@ Step 1: Setting up a Cloud Account
 
 4. Access the cloud console after completing the registration process.
 
- Step 2: Configuring IAM Users
+ # Configuring IAM Users
 
 Cloud accounts typically come with a root user. For better security, it's recommended to create individual IAM (Identity and Access Management) users for daily tasks.
 
-Create IAM User
+ Create IAM User
 
 1. In the cloud console, navigate to the IAM Dashboard.
 
@@ -78,7 +78,7 @@ Optionally, create custom policies for fine-grained control.
 
 Review and create the user. Download the access keys if required.
 
-Step 3: Creating Security Groups
+# Creating Security Groups
 
 Security groups act as virtual firewalls for your instances to control inbound and outbound traffic.
 
@@ -106,7 +106,7 @@ Security groups act as virtual firewalls for your instances to control inbound a
 
 6. Create the security group.
 
-Step 4: Launching a Cloud Instance
+# Launching a Cloud Instance
 
 1. In the EC2 Dashboard, click Launch Instance.
 
