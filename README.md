@@ -144,8 +144,10 @@ Open the app and scan the QR code provided by AWS.
 Security groups act as virtual firewalls for your instances to control inbound and outbound traffic.
 
 1. In the EC2 Dashboard, select Security Groups from the left panel.
+![Screenshot 2024-09-06 133822](https://github.com/user-attachments/assets/a0dfdcbf-8b00-492d-a406-d6b290b4f2e0)
 
 2.Click Create Security Group.
+
 
 3. Set the following:
 
