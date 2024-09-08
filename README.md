@@ -74,6 +74,7 @@ Cloud accounts typically come with a root user. For better security, it's recomm
 
 ![Screenshot 2024-09-06 132101](https://github.com/user-attachments/assets/36491e51-9586-4508-9215-a0a6360bf47c)
 
+![Screenshot 2024-09-06 132129](https://github.com/user-attachments/assets/2841cf32-3070-4925-b3e1-2c770b749aaa)
 
 6.  select the access type:
 
