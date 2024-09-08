@@ -189,8 +189,9 @@ Security groups act as virtual firewalls for your instances to control inbound a
    . Select the appropriate VPC and subnet.
 
    . Choose the IAM role, if required.
+![Screenshot 2024-09-07 215039](https://github.com/user-attachments/assets/9139cd10-2d98-4dc9-bfa7-d8aa32d9fb02)
 
-4. Add Storage: Configure the disk size and type (e.g., SSD, HDD).
+5. Add Storage: Configure the disk size and type (e.g., SSD, HDD).
 
 6. Add Tags: Tags help organize and identify resources (optional).
 
