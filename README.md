@@ -147,7 +147,7 @@ Security groups act as virtual firewalls for your instances to control inbound a
 ![Screenshot 2024-09-06 133822](https://github.com/user-attachments/assets/a0dfdcbf-8b00-492d-a406-d6b290b4f2e0)
 
 2.Click Create Security Group.
-
+![Screenshot 2024-09-06 133846](https://github.com/user-attachments/assets/8a27cd71-fbec-46bd-b0d5-a58fe6c7413f)
 
 3. Set the following:
 
@@ -156,6 +156,7 @@ Security groups act as virtual firewalls for your instances to control inbound a
  . Description: Details about the purpose.
 
  . VPC: Choose the appropriate Virtual Private Cloud (VPC).
+ 
 
 4. Configure Inbound Rules:
 
