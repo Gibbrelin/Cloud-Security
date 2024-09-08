@@ -83,7 +83,7 @@ Cloud accounts typically come with a root user. For better security, it's recomm
  . Console access for web-based UI access.
 
 
-5. Next: Proceed to the permissions step (either to add the new user to an existing group or attach policies directly to th user)
+5. Next: Proceed to the permissions step (either to add the new user to an existing group or attach policies directly to the user)
 
 ![Screenshot 2024-09-06 132252](https://github.com/user-attachments/assets/fbb11beb-9ed3-49b1-8753-552ad12475e9)
 
@@ -201,6 +201,7 @@ Security groups act as virtual firewalls for your instances to control inbound a
   . Select an existing security group or create a new one.
   
   Select or create a key pair to SSH into the instance, then launch the instance.
+![Screenshot 2024-09-08 203846](https://github.com/user-attachments/assets/424e617f-eaf9-4a82-baa5-4376977f4ec6)
 
 8. Review and Launch: Ensure the settings are correct.
 ![Screenshot 2024-09-07 215304](https://github.com/user-attachments/assets/1a607033-8ebc-4234-9f46-d498035b3583)
