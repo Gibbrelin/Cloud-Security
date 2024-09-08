@@ -41,12 +41,16 @@ This guide will walk you through setting up a cloud account, creating IAM users 
  . Google Cloud: https://cloud.google.com
  
  (I'll be using AWS cloud for illustrations)
+ 
+ ![Screenshot 2024-09-08 185513](https://github.com/user-attachments/assets/f29b2c44-1114-4407-8c76-5e000ecb4a1b)
 
 2. Sign up for a new account by providing your email address, and setting up a password, and verifying your identity.
 
-3. Select a support plan (basic is usually sufficient for getting started).
+   
 
-4. Access the cloud console after completing the registration process.
+4. Select a support plan (basic is usually sufficient for getting started).
+
+5. Access the cloud console after completing the registration process.
 
  # Configuring IAM Users
 
