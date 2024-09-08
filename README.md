@@ -168,7 +168,7 @@ Security groups act as virtual firewalls for your instances to control inbound a
  ![Screenshot 2024-09-07 232242](https://github.com/user-attachments/assets/384af94f-0a6f-4ba0-88f3-a38dd6643ba2)
 
 5. Configure Outbound Rules (optional): By default, all outbound traffic is allowed.
-
+![Screenshot 2024-09-07 214355](https://github.com/user-attachments/assets/fc5b4c97-5fe8-43ab-892f-9f124dfc2744)
 
 7. Create the security group.
 
