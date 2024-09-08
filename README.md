@@ -95,9 +95,9 @@ AdministratorAccess for full permissions (use sparingly).
 For specific tasks, select predefined policies like AmazonEC2FullAccess, S3ReadOnlyAccess, etc.
 Optionally, create custom policies for fine-grained control.
 
+5. Review and create the user. Download the access keys if required.
 
-
-Review and create the user. Download the access keys if required.
+![Screenshot 2024-09-06 132544](https://github.com/user-attachments/assets/4f6bb618-b099-4bd8-87f1-5db535b6f403)
 
 # Creating Security Groups
 
