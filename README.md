@@ -48,9 +48,9 @@ This guide will walk you through setting up a cloud account, creating IAM users 
 
 ![Screenshot 2024-09-08 190241](https://github.com/user-attachments/assets/81999094-2240-4958-8911-4b92cb05f97f)
 
-4. Select a support plan (basic is usually sufficient for getting started).
+3. Select a support plan (basic is usually sufficient for getting started).
 
-5. Access the cloud console after completing the registration process.
+4. Access the cloud console after completing the registration process.
 
 ![Screenshot 2024-09-08 191156](https://github.com/user-attachments/assets/fc32a073-b387-4faf-be18-d5cda459a571)
 
@@ -70,20 +70,20 @@ Cloud accounts typically come with a root user. For better security, it's recomm
 
 ![Screenshot 2024-09-06 131658](https://github.com/user-attachments/assets/bf0bfbc3-a75b-4ec9-a746-dc3b1309645b)
 
-4. Enter the username and passowrd of the new user
+3. Enter the username and passowrd of the new user
 
 ![Screenshot 2024-09-06 132101](https://github.com/user-attachments/assets/36491e51-9586-4508-9215-a0a6360bf47c)
 
 ![Screenshot 2024-09-06 132129](https://github.com/user-attachments/assets/2841cf32-3070-4925-b3e1-2c770b749aaa)
 
-6.  select the access type:
+4.  select the access type:
 
  . Programmatic access for API, CLI, SDK access.
 
  . Console access for web-based UI access.
 
 
-4. Next: Proceed to the permissions step (either to add the new user to an existing group or attach policies directly to th user)
+5. Next: Proceed to the permissions step (either to add the new user to an existing group or attach policies directly to th user)
 
 ![Screenshot 2024-09-06 132252](https://github.com/user-attachments/assets/fbb11beb-9ed3-49b1-8753-552ad12475e9)
 
@@ -95,7 +95,7 @@ AdministratorAccess for full permissions (use sparingly).
 For specific tasks, select predefined policies like AmazonEC2FullAccess, S3ReadOnlyAccess, etc.
 Optionally, create custom policies for fine-grained control.
 
-5. Review and create the user. Download the access keys if required.
+6. Review and create the user. Download the access keys if required.
 
 ![Screenshot 2024-09-06 132544](https://github.com/user-attachments/assets/4f6bb618-b099-4bd8-87f1-5db535b6f403)
 ![Screenshot 2024-09-06 132607](https://github.com/user-attachments/assets/5eb886fa-1188-42a7-8e62-cff53a4949f2)
@@ -176,6 +176,7 @@ Security groups act as virtual firewalls for your instances to control inbound a
 # Launching a Cloud Instance
 
 1. In the EC2 Dashboard, click Launch Instance.
+![Screenshot 2024-09-07 214715](https://github.com/user-attachments/assets/6aa8721c-699d-4d27-a794-4cc804c6bb09)
 
 2. Choose an AMI (Amazon Machine Image) that suits your needs (e.g., Amazon Linux, Ubuntu, etc.).
 
