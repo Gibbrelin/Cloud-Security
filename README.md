@@ -66,7 +66,7 @@ Cloud accounts typically come with a root user. For better security, it's recomm
 
  ![Screenshot 2024-09-06 131622](https://github.com/user-attachments/assets/d3f431aa-3ac6-45de-b0f6-f195ad079559)
 
-2. Click Users on the left panel, then click Add user.
+2. Click Users on the left panel, then click Create user.
 
 ![Screenshot 2024-09-06 131658](https://github.com/user-attachments/assets/bf0bfbc3-a75b-4ec9-a746-dc3b1309645b)
 
