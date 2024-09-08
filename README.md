@@ -192,6 +192,7 @@ Security groups act as virtual firewalls for your instances to control inbound a
 ![Screenshot 2024-09-07 215039](https://github.com/user-attachments/assets/9139cd10-2d98-4dc9-bfa7-d8aa32d9fb02)
 
 5. Add Storage: Configure the disk size and type (e.g., SSD, HDD).
+![image](https://github.com/user-attachments/assets/8e9c3b11-dfb3-425f-85a4-5898a793604e)
 
 6. Add Tags: Tags help organize and identify resources (optional).
 
