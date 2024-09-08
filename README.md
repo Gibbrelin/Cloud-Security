@@ -126,10 +126,11 @@ Select Security Credentials.
    
    . Configure Virtual MFA Device:
    (i will be using virtual MFA for this illustration)
-
+![Screenshot 2024-09-06 132902](https://github.com/user-attachments/assets/114219d7-a36a-428c-99be-dcd654110076)
 
 If using a smartphone, download an MFA app (Google Authenticator, Authy, etc.).
 Open the app and scan the QR code provided by AWS.
+
 
 4. Complete MFA Setup:
 
