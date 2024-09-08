@@ -170,7 +170,8 @@ Security groups act as virtual firewalls for your instances to control inbound a
 5. Configure Outbound Rules (optional): By default, all outbound traffic is allowed.
 ![Screenshot 2024-09-07 214355](https://github.com/user-attachments/assets/fc5b4c97-5fe8-43ab-892f-9f124dfc2744)
 
-7. Create the security group.
+6. Create the security group.
+![Screenshot 2024-09-07 214633](https://github.com/user-attachments/assets/7d63d443-6266-4282-a861-aa14845b884d)
 
 # Launching a Cloud Instance
 
@@ -186,7 +187,7 @@ Security groups act as virtual firewalls for your instances to control inbound a
 
    . Choose the IAM role, if required.
 
-5. Add Storage: Configure the disk size and type (e.g., SSD, HDD).
+4. Add Storage: Configure the disk size and type (e.g., SSD, HDD).
 
 6. Add Tags: Tags help organize and identify resources (optional).
 
