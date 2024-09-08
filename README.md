@@ -1,6 +1,6 @@
 # Cloud Security Guide: Setting Up Cloud Account, IAM User, Security Groups, and Launching an Instance
 
-Table of Contents
+  Table of Contents
 
 . Introduction
 
@@ -39,6 +39,8 @@ This guide will walk you through setting up a cloud account, creating IAM users 
  . Azure: https://azure.microsoft.com
 
  . Google Cloud: https://cloud.google.com
+ 
+ (I'll be using AWS cloud for illustrations)
 
 2. Sign up for a new account by providing your email address, and setting up a password, and verifying your identity.
 
