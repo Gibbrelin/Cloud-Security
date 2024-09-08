@@ -130,13 +130,14 @@ Select Security Credentials.
 
 If using a smartphone, download an MFA app (Google Authenticator, Authy, etc.).
 Open the app and scan the QR code provided by AWS.
-
+![Screenshot 2024-09-06 132902](https://github.com/user-attachments/assets/114219d7-a36a-428c-99be-dcd654110076)
 
 4. Complete MFA Setup:
 
    . Enter two consecutive MFA codes from your authenticator app to complete the configuration.
 
    . AWS will now display that MFA is enabled for your IAM account.
+   
 
 
 # Creating Security Groups
