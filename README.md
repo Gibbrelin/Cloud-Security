@@ -137,8 +137,7 @@ Open the app and scan the QR code provided by AWS.
    . Enter two consecutive MFA codes from your authenticator app to complete the configuration.
 
    . AWS will now display that MFA is enabled for your IAM account.
-   
-
+   ![Screenshot 2024-09-06 133459](https://github.com/user-attachments/assets/50506de7-eb5f-4a1c-9eb3-b4cd8156c20e)
 
 # Creating Security Groups
 
