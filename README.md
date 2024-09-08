@@ -68,13 +68,14 @@ Cloud accounts typically come with a root user. For better security, it's recomm
 
 2. Click Users on the left panel, then click Add user.
 
-   
+![Screenshot 2024-09-06 131658](https://github.com/user-attachments/assets/bf0bfbc3-a75b-4ec9-a746-dc3b1309645b)
 
 4. Enter the username and select the access type:
 
  . Programmatic access for API, CLI, SDK access.
 
  . Console access for web-based UI access.
+
 
 4. Next: Proceed to the permissions step.
 
