@@ -156,7 +156,7 @@ Security groups act as virtual firewalls for your instances to control inbound a
  . Description: Details about the purpose.
 
  . VPC: Choose the appropriate Virtual Private Cloud (VPC).
- 
+ ![Screenshot 2024-09-06 134154](https://github.com/user-attachments/assets/82a44b35-1a1d-4a01-a206-e869227ae940)
 
 4. Configure Inbound Rules:
 
@@ -165,6 +165,7 @@ Security groups act as virtual firewalls for your instances to control inbound a
  . HTTP (port 80) for web servers.
 
  . SSH (port 22) for SSH access (limit to specific IPs for security).
+ 
 
 5. Configure Outbound Rules (optional): By default, all outbound traffic is allowed.
 
