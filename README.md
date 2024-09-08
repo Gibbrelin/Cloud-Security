@@ -199,10 +199,13 @@ Security groups act as virtual firewalls for your instances to control inbound a
 7. Configure Security Groups:
 
   . Select an existing security group or create a new one.
+  
+  Select or create a key pair to SSH into the instance, then launch the instance.
 
 8. Review and Launch: Ensure the settings are correct.
+![Screenshot 2024-09-07 215304](https://github.com/user-attachments/assets/1a607033-8ebc-4234-9f46-d498035b3583)
 
-Select or create a key pair to SSH into the instance, then launch the instance.
+
 
 # Best Practices for Cloud Security
 
