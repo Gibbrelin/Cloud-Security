@@ -83,17 +83,19 @@ Cloud accounts typically come with a root user. For better security, it's recomm
  . Console access for web-based UI access.
 
 
-4. Next: Proceed to the permissions step.
+4. Next: Proceed to the permissions step (either to add the new user to an existing group or attach policies directly to th user)
+
+![Screenshot 2024-09-06 132252](https://github.com/user-attachments/assets/fbb11beb-9ed3-49b1-8753-552ad12475e9)
 
 Assign IAM Policies
 
 Attach policies based on user roles:
 
 AdministratorAccess for full permissions (use sparingly).
-
 For specific tasks, select predefined policies like AmazonEC2FullAccess, S3ReadOnlyAccess, etc.
-
 Optionally, create custom policies for fine-grained control.
+
+
 
 Review and create the user. Download the access keys if required.
 
