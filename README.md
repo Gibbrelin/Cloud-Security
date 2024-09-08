@@ -64,9 +64,13 @@ Cloud accounts typically come with a root user. For better security, it's recomm
 
  . AWS: Go to IAM under the Services menu.
 
+ ![Screenshot 2024-09-06 131622](https://github.com/user-attachments/assets/d3f431aa-3ac6-45de-b0f6-f195ad079559)
+
 2. Click Users on the left panel, then click Add user.
 
-3. Enter the username and select the access type:
+   
+
+4. Enter the username and select the access type:
 
  . Programmatic access for API, CLI, SDK access.
 
